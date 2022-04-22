@@ -1,2 +1,2 @@
 # ELFLoader
-ELF Loader [x86/x86_64] write in FASM (Flat assembler)
+ELF Loader [x86/x86_64] write in different ASM (Flat assembler, NASM)
